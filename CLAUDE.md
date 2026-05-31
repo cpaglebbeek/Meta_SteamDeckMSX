@@ -15,13 +15,28 @@ Wijzigingen aan code-componenten gaan ALTIJD in de sub-repo (`SteamDeckMSX_Nativ
 
 ## Codenaam-thema: MSX-game-helden
 
-Elke release krijgt een unieke MSX-titel als codenaam. Eerstvolgende ongebruikte titels (in willekeurige volgorde): Nemesis, Aleste, Penguin Adventure, Castlevania, Salamander, Parodius, Snatcher, YS, Xanadu, Treasure of Usas, King's Valley, Twinbee, Gradius, Antarctic Adventure, Hyper Olympic, Goonies, Magical Tree, Pippols, Yie Ar Kung-Fu.
+> **Single source of truth voor de hele ecosysteem.** Sub-repos verwijzen hierheen — niet zelf de pool dupliceren (drift-risico).
 
-**Toegewezen:**
-- v0.0.1 Meta = **Metal Gear**
-- v0.0.1 Native = **Bubble Bobble**
-- v0.0.1 Stream_Server = **Knightmare**
-- v0.0.1 Stream_Client = **Vampire Killer**
+Elke release krijgt een unieke MSX-titel als codenaam.
+
+### Toegewezen (gebruikte titels)
+
+| Repo | Versie | Codenaam |
+|------|--------|----------|
+| Meta_SteamDeckMSX | v0.0.1 | Metal Gear |
+| SteamDeckMSX_Native | v0.0.1 | Bubble Bobble |
+| SteamDeckMSX_Stream_Server | v0.0.1 | Knightmare |
+| SteamDeckMSX_Stream_Client | v0.0.1 | Vampire Killer |
+
+### Vrije pool (in willekeurige volgorde)
+
+Nemesis, Aleste, Penguin Adventure, Castlevania, Salamander, Parodius, Snatcher, YS, Xanadu, Treasure of Usas, King's Valley, Twinbee, Gradius, Antarctic Adventure, Hyper Olympic, Goonies, Magical Tree, Pippols, Yie Ar Kung-Fu, Maze of Galious, Vampire, Dragon Slayer, Solid Snake, Quarth, Space Manbow, F1 Spirit, Hinotori, Athletic Land.
+
+### Rotatie-regels
+
+1. Bij toewijzen van een nieuwe codenaam: schuif naar boven uit "Vrije pool", plaats in "Toegewezen"-tabel
+2. Geen codenaam mag in meer dan één repo voorkomen
+3. Sub-repo CLAUDE.md's verwijzen ALLEEN naar dit bestand voor de pool — geen dubbele administratie
 
 ## Feature & Bugfix Protocol (Color-Coded)
 

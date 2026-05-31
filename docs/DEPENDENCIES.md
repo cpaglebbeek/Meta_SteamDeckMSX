@@ -4,7 +4,7 @@
 
 | Naam | Versie | Licentie | Gebruikt door | Impact bij wijzigen |
 |------|--------|----------|---------------|---------------------|
-| **openMSX** | git HEAD bij fork | GPL-2.0 | Native, Stream_Server | Z80/VDP/PSG-gedrag. Major bump kan game-compat breken. |
+| **openMSX** | **RELEASE_21_0** — commit `cb61db762` (gepinned 2026-05-31, v0.0.2-Nemesis Native) — fork: [cpaglebbeek/openMSX-steamdeckmsx](https://github.com/cpaglebbeek/openMSX-steamdeckmsx) | GPL-2.0 | Native, Stream_Server | Z80/VDP/PSG-gedrag. Major bump kan game-compat breken. **Sync-regel:** Stream_Server moet identieke commit gebruiken (zie SteamDeckMSX_Native/ARCHITECTURE.md) |
 | **C-BIOS** | 0.29a+ | BSD-3-Clause | Native, Stream_Server | MSX BIOS-vervanger. AGPL-compatible. |
 | **SDL2** | 2.30+ | zlib | Native (via openMSX) | Input + framebuffer. |
 | **Qt6** (of GTK4) | 6.7+ | LGPL-3 | Native UI-laag | UI-toolkit. Keuze nog open — beslis v0.0.2. |

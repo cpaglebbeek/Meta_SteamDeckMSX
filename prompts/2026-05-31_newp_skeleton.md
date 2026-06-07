@@ -1,9 +1,15 @@
 ---
 date: 2026-05-31
 repo: Meta_SteamDeckMSX
-status: open
-resume: "verder met Meta_SteamDeckMSX — wireframes screens/, beslis Qt6 vs GTK4 (zie open vraag Native ARCHITECTURE)"
+status: done
+resume: ""
 ---
+
+> **Opvolging 2026-06-07 (sessie-bundel SteamDeck MSX):** v0.0.2-Nemesis
+> heeft `docs/UI_TOOLKIT_DECISION.md` (Qt6 lock-in) en 3 ASCII-wireframes
+> (`docs/screens/01_library.md`, `02_running.md`, `03_savestate.md`) geleverd.
+> Visuele Excalidraw-mockups verschoven naar v0.0.3. Zie
+> `2026-06-07_v0.0.2_qt6_decision_wireframes.md` (status: done).
 
 # Sessie 2026-05-31 — newp Meta_SteamDeckMSX (ecosysteem-master)
 

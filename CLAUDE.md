@@ -24,13 +24,23 @@ Elke release krijgt een unieke MSX-titel als codenaam.
 | Repo | Versie | Codenaam |
 |------|--------|----------|
 | Meta_SteamDeckMSX | v0.0.1 | Metal Gear |
+| Meta_SteamDeckMSX | v0.0.2 | Nemesis |
 | SteamDeckMSX_Native | v0.0.1 | Bubble Bobble |
+| SteamDeckMSX_Native | v0.0.4 | Aleste |
+| SteamDeckMSX_Native | v0.0.5 | Solid Snake |
+| SteamDeckMSX_Native | v0.0.6 | Penguin Adventure |
+| SteamDeckMSX_Native | v0.0.7 | Castlevania |
 | SteamDeckMSX_Stream_Server | v0.0.1 | Knightmare |
+| SteamDeckMSX_Stream_Server | v0.0.2 | Parodius |
 | SteamDeckMSX_Stream_Client | v0.0.1 | Vampire Killer |
+| SteamDeckMSX_Stream_Client | v0.0.2 | Salamander |
+
+> v0.0.2/v0.0.3 entries voor Native (Bubble Bobble, …) niet apart vermeld omdat
+> v0.0.1 het skeleton afdekt; pas vanaf v0.0.4 release-tagging gestart.
 
 ### Vrije pool (in willekeurige volgorde)
 
-Nemesis, Aleste, Penguin Adventure, Castlevania, Salamander, Parodius, Snatcher, YS, Xanadu, Treasure of Usas, King's Valley, Twinbee, Gradius, Antarctic Adventure, Hyper Olympic, Goonies, Magical Tree, Pippols, Yie Ar Kung-Fu, Maze of Galious, Vampire, Dragon Slayer, Solid Snake, Quarth, Space Manbow, F1 Spirit, Hinotori, Athletic Land.
+Snatcher, YS, Xanadu, Treasure of Usas, King's Valley, Twinbee, Gradius, Antarctic Adventure, Hyper Olympic, Goonies, Magical Tree, Pippols, Yie Ar Kung-Fu, Maze of Galious, Vampire, Dragon Slayer, Quarth, Space Manbow, F1 Spirit, Hinotori, Athletic Land.
 
 ### Rotatie-regels
 

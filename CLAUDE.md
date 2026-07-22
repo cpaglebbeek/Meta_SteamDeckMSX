@@ -37,6 +37,7 @@ Elke release krijgt een unieke MSX-titel als codenaam.
 | SteamDeckMSX_Stream_Server | v0.0.1 | Knightmare |
 | SteamDeckMSX_Stream_Server | v0.0.2 | Parodius |
 | SteamDeckMSX_Stream_Server | v0.1.0 | Gradius |
+| SteamDeckMSX_Stream_Server | v0.2.0 | Twinbee |
 | SteamDeckMSX_Stream_Client | v0.0.1 | Vampire Killer |
 | SteamDeckMSX_Stream_Client | v0.0.2 | Salamander |
 
@@ -45,7 +46,7 @@ Elke release krijgt een unieke MSX-titel als codenaam.
 
 ### Vrije pool (in willekeurige volgorde)
 
-King's Valley, Twinbee, Antarctic Adventure, Hyper Olympic, Goonies, Magical Tree, Pippols, Yie Ar Kung-Fu, Maze of Galious, Vampire, Dragon Slayer, Quarth, Space Manbow, F1 Spirit, Hinotori, Athletic Land.
+King's Valley, Antarctic Adventure, Hyper Olympic, Goonies, Magical Tree, Pippols, Yie Ar Kung-Fu, Maze of Galious, Vampire, Dragon Slayer, Quarth, Space Manbow, F1 Spirit, Hinotori, Athletic Land.
 
 ### Rotatie-regels
 

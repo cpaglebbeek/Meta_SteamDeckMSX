@@ -34,6 +34,7 @@ Elke release krijgt een unieke MSX-titel als codenaam.
 | SteamDeckMSX_Native | v0.0.9 | YS |
 | SteamDeckMSX_Native | v0.1.0 | Xanadu |
 | SteamDeckMSX_Native | v0.2.0 | Treasure of Usas |
+| SteamDeckMSX_Native | v0.2.1 | King's Valley |
 | SteamDeckMSX_Stream_Server | v0.0.1 | Knightmare |
 | SteamDeckMSX_Stream_Server | v0.0.2 | Parodius |
 | SteamDeckMSX_Stream_Server | v0.1.0 | Gradius |
@@ -46,7 +47,7 @@ Elke release krijgt een unieke MSX-titel als codenaam.
 
 ### Vrije pool (in willekeurige volgorde)
 
-King's Valley, Antarctic Adventure, Hyper Olympic, Goonies, Magical Tree, Pippols, Yie Ar Kung-Fu, Maze of Galious, Vampire, Dragon Slayer, Quarth, Space Manbow, F1 Spirit, Hinotori, Athletic Land.
+Antarctic Adventure, Hyper Olympic, Goonies, Magical Tree, Pippols, Yie Ar Kung-Fu, Maze of Galious, Vampire, Dragon Slayer, Quarth, Space Manbow, F1 Spirit, Hinotori, Athletic Land.
 
 ### Rotatie-regels
 
